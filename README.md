@@ -7,7 +7,7 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilv4&show_icons=true&theme=tokyonight)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsilv4&layout=compact)
 <br>
 
 ### Tecnologias 🖥️
