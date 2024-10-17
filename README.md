@@ -7,6 +7,8 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=xsilv4&show_icons=true&theme=tokyonight)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<br>
 
 ### Tecnologias 🖥️
 <br>
@@ -18,3 +20,4 @@
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
+Sou apaixonado por tecnologia🖤
